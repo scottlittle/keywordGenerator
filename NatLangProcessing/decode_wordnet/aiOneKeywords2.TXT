@@ -1,0 +1,3 @@
+allocation	['share']
+allocation	['act']
+allocation	['assignment']

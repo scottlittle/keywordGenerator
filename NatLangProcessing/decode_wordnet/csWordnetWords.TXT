@@ -1,0 +1,505 @@
+597: 00107010-n	computer_science
+1851: 00292171-n	computer_science play
+1852: 00292294-n	computer_science play
+3663: 00578611-n	computer_science mathematics
+3669: 00579500-n	computer_science radiology
+3779: 00595769-n	computer_science
+3780: 00595942-n	computer_science
+3868: 00608707-n	computer_science engineering industry
+4519: 00714121-n	computer_science
+12733: 02159706-n	computer_science
+12757: 02163421-n	computer_science
+12767: 02164835-n	computer_science
+12910: 02186972-n	computer_science
+12919: 02188290-n	computer_science
+13167: 02228303-n	computer_science
+13195: 02232576-n	computer_science
+13200: 02233096-n	computer_science
+13218: 02235391-n	computer_science
+13910: 02338568-n	computer_science
+13967: 02345884-n	computer_science
+13989: 02350847-n	computer_science
+14035: 02357012-n	computer_science electricity
+14094: 02365525-n	computer_science
+14362: 02405724-n	computer_science electronics electrotechnology tv
+14379: 02408032-n	computer_science electricity
+14382: 02408548-n	computer_science music
+14383: 02408832-n	computer_science
+14414: 02413762-n	computer_science
+14543: 02432404-n	computer_science
+14615: 02443613-n	computer_science
+14818: 02473153-n	computer_science electronics electrotechnology tv
+14866: 02481557-n	computer_science
+14867: 02482070-n	computer_science
+14868: 02482181-n	computer_science
+14869: 02482408-n	computer_science graphic_arts
+14870: 02482539-n	computer_science
+14871: 02482718-n	computer_science furniture
+14872: 02482897-n	computer_science
+14873: 02483129-n	computer_science
+14875: 02483424-n	computer_science
+14912: 02489305-n	computer_science physics
+14928: 02493047-n	computer_science
+14932: 02493845-n	computer_science engineering
+15067: 02514546-n	computer_science
+15124: 02522244-n	computer_science electronics electrotechnology tv
+15226: 02536035-n	computer_science
+15294: 02546025-n	computer_science
+15296: 02546349-n	computer_science
+15330: 02551265-n	computer_science
+15376: 02558223-n	computer_science
+15404: 02563880-n	computer_science
+15434: 02568565-n	computer_science
+15442: 02569798-n	computer_science
+15444: 02570061-n	computer_science
+15448: 02570861-n	computer_science
+15478: 02575212-n	computer_science
+15500: 02578656-n	computer_science
+15502: 02578948-n	computer_science
+15504: 02579284-n	computer_science
+15505: 02579454-n	computer_science
+15506: 02579698-n	computer_science
+15512: 02580897-n	computer_science
+15674: 02605312-n	computer_science
+15722: 02613137-n	computer_science
+15838: 02631938-n	computer_science electronics electrotechnology tv
+15913: 02644947-n	computer_science
+15938: 02648485-n	computer_science
+15939: 02648758-n	computer_science electricity telephony
+15978: 02654850-n	computer_science
+16116: 02678254-n	computer_science
+16360: 02713562-n	computer_science tv
+16406: 02719952-n	computer_science
+16580: 02747511-n	computer_science
+16748: 02771524-n	computer_science
+16895: 02792184-n	computer_science
+16930: 02798214-n	computer_science
+16934: 02798795-n	computer_science
+17349: 02861559-n	computer_science
+17356: 02862795-n	computer_science
+17363: 02864229-n	computer_science
+17364: 02864326-n	computer_science
+17473: 02880192-n	computer_science
+17520: 02887166-n	computer_science furniture music publishing
+17521: 02887500-n	computer_science
+17534: 02889287-n	computer_science electronics electrotechnology tv
+17662: 02907485-n	computer_science
+17785: 02925646-n	computer_science
+17824: 02931570-n	computer_science
+17849: 02935420-n	computer_science
+17980: 02955026-n	computer_science
+17985: 02956039-n	computer_science tv
+18010: 02959302-n	computer_science
+18161: 02984419-n	computer_science
+18162: 02984735-n	computer_science
+18163: 02984873-n	computer_science
+18226: 02995539-n	computer_science
+18275: 03002925-n	computer_science
+18308: 03007781-n	computer_science
+18313: 03008503-n	computer_science
+18330: 03011151-n	computer_science electronics electrotechnology
+18391: 03020109-n	computer_science
+18419: 03024032-n	computer_science
+18468: 03031295-n	computer_science
+18517: 03038207-n	computer_science
+18548: 03042473-n	computer_science
+18553: 03043159-n	computer_science
+18569: 03046048-n	computer_science
+18580: 03047816-n	computer_science
+18617: 03053430-n	computer_science electricity
+18671: 03061867-n	computer_science
+18694: 03065395-n	computer_science electronics electrotechnology metrology
+18856: 03087863-n	computer_science
+18865: 03089030-n	computer_science
+18894: 03093690-n	computer_science
+18927: 03098546-n	computer_science
+18992: 03108275-n	computer_science
+19000: 03109520-n	computer_science
+19041: 03116176-n	computer_science furniture music
+19171: 03134536-n	computer_science
+19322: 03158921-n	computer_science
+19341: 03161514-n	computer_science
+19420: 03173101-n	computer_science
+19421: 03173212-n	computer_science
+19423: 03173714-n	computer_science
+19525: 03191147-n	computer_science mechanics
+19582: 03198160-n	computer_science furniture
+19656: 03210336-n	computer_science
+19667: 03212141-n	computer_science
+19694: 03216271-n	computer_science
+19695: 03216499-n	computer_science
+19697: 03216841-n	computer_science
+19770: 03228795-n	computer_science
+19811: 03235693-n	buildings computer_science publishing
+19933: 03254648-n	computer_science
+20158: 03285911-n	computer_science
+20162: 03286767-n	computer_science electronics electrotechnology tv
+20166: 03287472-n	computer_science
+20263: 03302878-n	computer_science
+20268: 03303483-n	computer_science
+20598: 03352324-n	computer_science
+20626: 03356080-n	computer_science
+20634: 03357382-n	computer_science
+20707: 03367250-n	commerce computer_science
+20750: 03373173-n	buildings computer_science publishing
+20824: 03383306-n	computer_science mechanics
+21314: 03460469-n	computer_science electronics electrotechnology
+21572: 03499737-n	computer_science economy
+21684: 03515665-n	computer_science
+21753: 03526436-n	computer_science
+21836: 03538975-n	computer_science electronics electrotechnology tv
+21960: 03557476-n	computer_science furniture publishing
+22105: 03580131-n	computer_science
+22121: 03582614-n	computer_science
+22342: 03616801-n	computer_science
+22367: 03620959-n	computer_science
+22444: 03632472-n	computer_science
+22447: 03632937-n	computer_science
+22477: 03637473-n	computer_science
+23889: 03859083-n	computer_science
+23890: 03859280-n	computer_science
+23891: 03859575-n	computer_science
+24112: 03890613-n	computer_science
+24505: 03950920-n	computer_science
+24629: 03970781-n	computer_science
+27222: 04424844-n	computer_science
+27223: 04424991-n	computer_science
+27331: 04443911-n	computer_science
+27478: 04467427-n	computer_science
+27482: 04468129-n	computer_science
+27487: 04469067-n	computer_science
+27594: 04487438-n	computer_science
+27716: 04508967-n	computer_science mathematics
+28535: 04650503-n	computer_science mathematics
+28610: 04663525-n	computer_science
+28611: 04663754-n	computer_science
+28612: 04664054-n	computer_science
+28613: 04664182-n	computer_science
+28614: 04664330-n	computer_science
+28615: 04664463-n	computer_science
+29038: 04735017-n	computer_science telecommunication
+29039: 04735270-n	computer_science literature publishing
+29108: 04745878-n	computer_science telecommunication
+29109: 04746028-n	computer_science telecommunication
+29110: 04746250-n	computer_science telecommunication
+29111: 04746505-n	computer_science
+29112: 04746775-n	computer_science
+29383: 04792090-n	computer_science
+29384: 04792458-n	computer_science
+29385: 04792613-n	computer_science
+29386: 04792917-n	computer_science
+29387: 04793123-n	computer_science
+29388: 04793243-n	computer_science
+29389: 04793431-n	computer_science
+29390: 04793613-n	computer_science
+29391: 04793753-n	computer_science
+29392: 04793927-n	computer_science
+29393: 04794079-n	computer_science
+29394: 04794281-n	computer_science
+29871: 04872091-n	computer_science
+29872: 04872248-n	computer_science
+29883: 04873746-n	computer_science
+29884: 04873896-n	computer_science
+29888: 04874469-n	computer_science
+29920: 04880008-n	computer_science
+29956: 04885246-n	computer_science
+29957: 04885530-n	computer_science
+29958: 04885673-n	computer_science
+29959: 04885881-n	computer_science
+29960: 04886063-n	computer_science
+29961: 04886212-n	computer_science
+29962: 04886400-n	computer_science
+29963: 04886566-n	computer_science
+29964: 04886720-n	computer_science
+29965: 04886842-n	computer_science
+29966: 04887048-n	computer_science
+30213: 04927772-n	computer_science
+30214: 04928310-n	computer_science
+30215: 04928454-n	computer_science
+30216: 04928648-n	computer_science
+30217: 04928887-n	computer_science
+30218: 04929018-n	computer_science
+30219: 04929176-n	computer_science
+30220: 04929352-n	computer_science
+30221: 04929447-n	computer_science
+30222: 04929621-n	computer_science
+30223: 04929853-n	computer_science
+30224: 04929982-n	computer_science
+30225: 04930129-n	computer_science
+30226: 04930290-n	computer_science
+30227: 04931025-n	computer_science
+30228: 04931399-n	computer_science
+30229: 04931526-n	computer_science
+30230: 04931684-n	computer_science
+30231: 04931825-n	computer_science
+30232: 04931896-n	computer_science
+30233: 04931971-n	computer_science
+30234: 04932124-n	computer_science
+30235: 04932327-n	computer_science
+30236: 04932490-n	computer_science
+30237: 04932604-n	computer_science
+30238: 04932742-n	computer_science
+30239: 04932870-n	computer_science
+30240: 04933146-n	computer_science
+30241: 04933239-n	computer_science
+30242: 04933344-n	computer_science
+30243: 04933443-n	computer_science
+30244: 04933546-n	computer_science
+30245: 04933667-n	computer_science
+30246: 04933837-n	computer_science
+30247: 04933998-n	computer_science
+30248: 04934230-n	computer_science
+30249: 04934365-n	computer_science
+30250: 04934624-n	computer_science
+30251: 04934800-n	computer_science
+30252: 04935051-n	computer_science
+30253: 04935235-n	computer_science
+30254: 04935347-n	computer_science
+30255: 04935458-n	computer_science
+30256: 04935621-n	computer_science
+30257: 04935809-n	computer_science
+30258: 04935956-n	computer_science
+30259: 04936126-n	computer_science
+30260: 04936295-n	computer_science
+30261: 04936432-n	computer_science
+30262: 04936575-n	computer_science
+30263: 04936695-n	computer_science
+30264: 04936835-n	computer_science
+30265: 04936958-n	computer_science
+30266: 04937109-n	computer_science
+30267: 04937225-n	computer_science
+30268: 04937418-n	computer_science
+30269: 04937521-n	computer_science
+30270: 04937741-n	computer_science
+30271: 04937943-n	computer_science
+30272: 04938103-n	computer_science
+30273: 04938497-n	computer_science
+30274: 04938633-n	computer_science
+30275: 04938766-n	computer_science
+30276: 04938902-n	computer_science
+30277: 04939242-n	computer_science
+30278: 04939467-n	computer_science
+30279: 04939659-n	computer_science
+30280: 04939835-n	computer_science
+30281: 04939999-n	computer_science
+30282: 04940126-n	computer_science
+30283: 04940271-n	computer_science
+30284: 04940410-n	computer_science
+30285: 04940530-n	computer_science
+30286: 04940643-n	computer_science
+30287: 04940737-n	computer_science
+30288: 04940857-n	computer_science
+30289: 04941017-n	computer_science
+30290: 04941183-n	computer_science
+30291: 04941372-n	computer_science
+30292: 04941647-n	computer_science
+30293: 04941766-n	computer_science
+30294: 04941908-n	computer_science
+30295: 04942077-n	computer_science
+30296: 04942259-n	computer_science
+30297: 04942456-n	computer_science
+30298: 04942616-n	computer_science
+30299: 04942803-n	computer_science
+30300: 04942970-n	computer_science
+30301: 04943225-n	computer_science
+30302: 04943438-n	computer_science
+30303: 04943591-n	computer_science
+30304: 04943791-n	computer_science
+30538: 04979062-n	computer_science
+30539: 04979296-n	computer_science
+30540: 04979478-n	computer_science
+30543: 04979970-n	computer_science
+30544: 04980232-n	computer_science
+30546: 04980573-n	computer_science
+30547: 04980709-n	computer_science
+30548: 04980890-n	computer_science
+30653: 04998026-n	computer_science
+30654: 04998269-n	computer_science
+30655: 04998493-n	computer_science
+30656: 04998728-n	computer_science
+30657: 04998911-n	computer_science
+30658: 04999091-n	computer_science
+30659: 04999367-n	computer_science
+31187: 05083856-n	computer_science linguistics
+31188: 05084028-n	computer_science
+31189: 05084264-n	computer_science
+31337: 05108664-n	computer_science linguistics
+31367: 05113802-n	computer_science
+31374: 05114929-n	computer_science
+31468: 05128216-n	computer_science
+31703: 05162548-n	computer_science
+31704: 05162971-n	computer_science
+31705: 05163149-n	computer_science
+31707: 05163487-n	computer_science
+31709: 05163810-n	computer_science
+31713: 05164477-n	computer_science
+31714: 05164702-n	computer_science
+31715: 05164879-n	computer_science
+31716: 05165229-n	computer_science
+31717: 05165459-n	computer_science
+31718: 05165629-n	computer_science
+31720: 05165887-n	computer_science
+31721: 05166060-n	computer_science
+31722: 05166205-n	computer_science
+31723: 05166378-n	computer_science
+31724: 05166462-n	computer_science
+31725: 05166631-n	computer_science
+31726: 05166777-n	computer_science
+31727: 05166867-n	computer_science
+31728: 05166952-n	computer_science
+31729: 05167087-n	computer_science
+31730: 05167165-n	computer_science
+31731: 05167357-n	computer_science
+33243: 05389120-n	computer_science
+33244: 05389274-n	computer_science
+33245: 05389374-n	computer_science
+33465: 05421788-n	computer_science electricity
+33466: 05421893-n	computer_science electricity
+33467: 05422025-n	computer_science electricity
+33496: 05425814-n	computer_science
+33820: 05476284-n	computer_science
+34392: 05560336-n	computer_science
+34393: 05560569-n	computer_science
+37308: 05980872-n	computer_science
+38866: 06239860-n	computer_science
+39215: 06306925-n	computer_science
+39216: 06307088-n	computer_science
+39217: 06307257-n	computer_science
+44413: 07173968-n	computer_science
+44414: 07174117-n	computer_science
+47928: 07657046-n	computer_science
+49029: 07833814-n	computer_science
+58368: 09743971-n	computer_science
+58371: 09744434-n	computer_science
+58372: 09744561-n	computer_science
+58373: 09744679-n	computer_science
+58382: 09746244-n	computer_science
+58383: 09746612-n	computer_science
+58384: 09746755-n	computer_science
+58385: 09746932-n	computer_science
+58386: 09747131-n	computer_science
+58387: 09747736-n	computer_science
+58388: 09747930-n	computer_science
+58389: 09748113-n	computer_science
+58390: 09748332-n	computer_science
+58391: 09748525-n	computer_science
+58392: 09748669-n	computer_science
+58393: 09748899-n	computer_science
+58394: 09748998-n	computer_science
+58395: 09749154-n	computer_science
+58396: 09749289-n	computer_science
+58397: 09749408-n	computer_science
+58398: 09749599-n	computer_science
+58399: 09749725-n	computer_science
+58400: 09749885-n	computer_science
+58401: 09750069-n	computer_science
+58402: 09750253-n	computer_science
+58403: 09750420-n	computer_science
+58404: 09750524-n	computer_science
+58405: 09750677-n	computer_science
+58406: 09750833-n	computer_science
+58407: 09751025-n	computer_science
+58408: 09751214-n	computer_science
+58409: 09751371-n	computer_science
+58410: 09751615-n	computer_science
+58411: 09751735-n	computer_science
+58412: 09751874-n	computer_science
+58413: 09751991-n	computer_science
+58414: 09752142-n	computer_science
+58415: 09752304-n	computer_science
+58416: 09752497-n	computer_science
+58417: 09752695-n	computer_science
+58418: 09752898-n	computer_science
+58419: 09753036-n	computer_science
+58420: 09753207-n	computer_science
+58421: 09753347-n	computer_science
+58422: 09753519-n	computer_science
+58423: 09753669-n	computer_science
+58450: 09758798-n	computer_science
+58531: 09773610-n	computer_science metrology
+58539: 09778024-n	computer_science
+58540: 09778191-n	computer_science
+58647: 09795462-n	computer_science metrology
+58648: 09795705-n	computer_science
+58649: 09796057-n	computer_science
+58650: 09796150-n	computer_science
+58651: 09796377-n	computer_science
+58652: 09796601-n	computer_science
+58653: 09796888-n	computer_science
+58654: 09797003-n	computer_science
+58655: 09797175-n	computer_science
+58656: 09797369-n	computer_science
+58657: 09797558-n	computer_science
+58659: 09797785-n	computer_science
+58660: 09797959-n	computer_science
+58661: 09798167-n	computer_science
+59407: 09905308-n	computer_science
+59408: 09905560-n	computer_science
+59409: 09905826-n	computer_science
+59714: 09954508-n	computer_science
+59728: 09956846-n	computer_science electronics
+59833: 09973537-n	computer_science
+62327: 10377834-n	computer_science mechanics
+63813: 10632536-n	computer_science
+65419: 10889988-n	computer_science
+65895: 10967973-n	computer_science
+65896: 10968157-n	computer_science
+65932: 10974104-n	computer_science
+66023: 10989008-n	computer_science
+66024: 10989223-n	computer_science time_period
+66025: 10989410-n	computer_science
+66469: 00066660-v	computer_science medicine
+66562: 00083117-v	computer_science
+66724: 00117078-v	computer_science
+66859: 00136974-v	computer_science
+67911: 00303160-v	computer_science electrotechnology
+68057: 00327278-v	computer_science
+68323: 00367889-v	computer_science
+68515: 00395482-v	computer_science
+68516: 00395669-v	computer_science
+68727: 00431606-v	computer_science mathematics
+68749: 00434980-v	computer_science linguistics pure_science
+68983: 00473404-v	computer_science
+68986: 00473889-v	computer_science
+69491: 00559457-v	computer_science
+70187: 00672235-v	computer_science
+70188: 00672478-v	computer_science
+70208: 00675295-v	computer_science mechanics
+70209: 00675462-v	computer_science mechanics
+70215: 00676214-v	computer_science mechanics
+70222: 00677552-v	computer_science
+70354: 00698898-v	computer_science telecommunication
+71216: 00825003-v	computer_science
+71737: 00898162-v	computer_science
+72042: 00943355-v	computer_science
+73180: 01118553-v	computer_science
+73578: 01177013-v	computer_science
+73695: 01193948-v	computer_science
+74422: 01310012-v	computer_science transport
+75298: 01441556-v	computer_science
+75778: 01519318-v	computer_science
+75826: 01527537-v	computer_science
+75827: 01527700-v	computer_science
+75828: 01527871-v	computer_science
+75829: 01528065-v	computer_science
+75895: 01539216-v	computer_science
+75896: 01539361-v	computer_science
+76276: 01596258-v	computer_science
+77226: 01747866-v	computer_science
+79249: 00184365-a	computer_science
+80987: 00475053-a	computer_science
+80988: 00475213-a	computer_science
+84282: 01040004-a	computer_science
+84287: 01040983-a	computer_science
+85027: 01166941-a	computer_science
+85028: 01167158-a	computer_science
+87547: 01590502-a	computer_science
+87548: 01590669-a	computer_science
+87549: 01590822-a	computer_science
+91628: 02267029-a	computer_science
+91635: 02268053-a	computer_science
+94246: 02641525-a	computer_science
+94537: 02682032-a	computer_science
+94567: 02685764-a	computer_science mathematics
+94767: 02712486-a	computer_science
+98032: 00284082-r	computer_science mathematics

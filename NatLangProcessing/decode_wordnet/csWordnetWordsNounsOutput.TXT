@@ -1,0 +1,445 @@
+00107010	00164579	Synset('allocation.n.03')	(computer science) the assignment of particular areas of a magnetic disk to particular data or instructions
+00292171	00458890	Synset('computer_game.n.01')	a game played against a computer
+00292294	00459013	Synset('virtual_reality.n.01')	a hypothetical three-dimensional visual world created by a computer; user wears special goggles and fiber optic gloves etc., and can enter and move about in this world and interact with objects as if inside it
+00578611	00900207	Synset('schematization.n.01')	providing a chart or outline of a system
+00579500	00901476	Synset('computerized_tomography.n.01')	a method of examining body organs by scanning them with X rays and using a computer to construct a series of cross-sectional scans along a single axis
+00595769	00928947	Synset('programming.n.02')	creating a sequence of instructions to enable the computer to do something
+00595942	00929285	Synset('logic_programming.n.02')	creating a program that enables the computer to reason logically
+00608707	00950705	Synset('computer_technology.n.01')	the activity of designing and constructing and programming computers
+00714121	01102256	Synset('desktop_publishing.n.01')	(computer science) the use of microcomputers with graphics capacity to produce printed materials
+02159706	02671224	Synset('access.n.05')	(computer science) the operation of reading or writing stored information
+02163421	02676670	Synset('acoustic_modem.n.01')	a modem that converts electrical signals to telephone tones and back again
+02164835	02678010	Synset('active_matrix_screen.n.01')	a type of LCD screen used for some portable computers; there is a separate circuit for each pixel
+02186972	02708224	Synset('analog_computer.n.01')	a computer that represents information by variable quantities (e.g., positions or voltages)
+02188290	02709908	Synset('and_circuit.n.01')	a circuit in a computer that fires only when all of its inputs fire
+02228303	02763306	Synset('auxiliary_storage.n.01')	a data storage device that is not the main memory of a computer
+02232576	02768433	Synset('backbone.n.05')	the part of a network that connects other networks together
+02235391	02771840	Synset('backup.n.04')	(computer science) a copy of a file or directory on a separate storage device
+02338568	02900987	Synset('briefcase_computer.n.01')	a portable computer housed in a box that resembles a briefcase
+02345884	02911485	Synset('buffer.n.04')	(computer science) a part of RAM used for temporary storage of data that is waiting to be sent to a device; used to compensate for differences in the rate of flow of data between components of a computer system
+02350847	02916684	Synset('bulletin_board_system.n.01')	a computer that is running software that allows users to leave messages and access information of general interest
+02357012	02924713	Synset('busbar.n.01')	an electrical conductor that makes a common connection between several circuits
+02365525	02935017	Synset('cache.n.03')	(computer science) RAM memory that is set aside as a specialized buffer storage that is continually updated; used to optimize data transfers between system elements with different characteristics
+02405724	02985137	Synset('cathode-ray_tube.n.01')	a vacuum tube in which a hot cathode emits a beam of electrons that pass through a high voltage anode and are focused or deflected before hitting a phosphorescent screen
+02408032	02988156	Synset('cd_drive.n.01')	a drive that reads a compact disc and that is connected to an audio system
+02408548	02988679	Synset('cd-rom.n.01')	a compact disk that is used with a computer (rather than with an audio system); a large amount of digital information can be stored and accessed but it cannot be altered by the user
+02408832	02988963	Synset('cd-rom_drive.n.01')	a drive that is connected to a computer and on which a CD-ROM can be `played'
+02413762	02995345	Synset('central_processing_unit.n.01')	(computer science) the part of a computer (a microprocessor chip) that does most of the data processing
+02432404	03020034	Synset('chip.n.07')	electronic equipment consisting of a small crystal of a silicon semiconductor fabricated to carry out a number of electronic functions in an integrated circuit
+02443613	03033986	Synset('circuit_board.n.01')	a printed circuit that can be inserted into expansion slots in a computer to increase the computer's capabilities
+02473153	03072440	Synset('color_tube.n.01')	a television tube that displays images in full color
+02481557	03082979	Synset('computer.n.01')	a machine for performing calculations automatically
+02482070	03084204	Synset('computer_accessory.n.01')	an accessory for a computer
+02482181	03084420	Synset('computer_circuit.n.01')	a circuit that is part of a computer
+02482408	03084647	Synset('computer_graphics.n.01')	the pictorial representation and manipulation of data by a computer
+02482539	03084834	Synset('computerized_axial_tomography_scanner.n.01')	a tomograph that constructs a 3-D model of an object by combining parallel planes
+02482718	03085013	Synset('computer_keyboard.n.01')	a keyboard that is a data input device for computers; arrangement of keys is modelled after the typewriter keyboard
+02482897	03085333	Synset('computer_network.n.01')	(computer science) a network of computers
+02483129	03085602	Synset('computer_screen.n.01')	a screen used to display the output of a computer to the user
+02483424	03085915	Synset('computer_system.n.01')	a system of one or more computers and associated software with common storage
+02489305	03092656	Synset('console.n.02')	a scientific instrument consisting of displays and an input device that an operator can use to monitor and control a system (especially a computer system)
+02493047	03097673	Synset('control_key.n.01')	(computer science) the key on a computer keyboard that is used (in combination with some other key) to type control characters
+02493845	03098806	Synset('control_system.n.01')	a system for controlling the operation of another system
+02514546	03125057	Synset('cpu_board.n.01')	the main circuit board for a computer
+02522244	03134394	Synset('crookes_tube.n.01')	the original gas-discharge cathode-ray tube
+02536035	03150795	Synset('cursor.n.01')	(computer science) indicator consisting of a movable spot of light (an icon) on a visual display; moving it allows the user to point to commands or screen positions
+02546025	03163798	Synset('data_converter.n.01')	converter for changing information from one code to another
+02546349	03164344	Synset('data_system.n.01')	system consisting of the network of all communication channels used within an organization
+02551265	03170459	Synset('dedicated_file_server.n.01')	(computer science) a file server that can be used only as a file server
+02558223	03180011	Synset('desktop_computer.n.01')	a personal computer small enough to fit conveniently in an individual workspace
+02563880	03187268	Synset('dialog_box.n.01')	(computer science) a small temporary window in a graphical user interface that appears in order to request information from the user; after the information has been provided the user dismisses the box with `okay' or `cancel'
+02568565	03194170	Synset('differential_analyzer.n.01')	an analog computer designed to solve differential equations
+02569798	03195799	Synset('digital-analog_converter.n.01')	device for converting digital signals into analogue signals
+02570061	03196324	Synset('digital_computer.n.01')	a computer that represents information by numerical (binary) digits
+02570861	03197446	Synset('digitizer.n.01')	device for converting analogue signals into digital signals
+02575212	03204558	Synset('dip_switch.n.01')	(computer science) one of a set of small on-off switches mounted in computer hardware; used in place of jumpers to configure the machine for a user
+02578656	03208815	Synset('disk_access.n.01')	memory access to the computer disk on which information is stored
+02578948	03209141	Synset('disk_cache.n.01')	a cache that stores copies of frequently used disk sectors in random access memory (RAM) so they can be read without accessing the slower disk
+02579284	03209477	Synset('disk_controller.n.01')	(computer science) a circuit or chip that translates commands into a form that can control a hard disk drive
+02579454	03209666	Synset('disk_drive.n.01')	computer hardware that holds and spins a magnetic or optical disk and reads and writes information on it
+02579698	03209910	Synset('diskette.n.01')	a small plastic magnetic disk enclosed in a stiff envelope with a radial slit; used to store data or programs for a microcomputer
+02580897	03211413	Synset('display_adapter.n.01')	(computer science) an electronic device that converts information in memory to video output to a display
+02605312	03243218	Synset('drive.n.10')	(computer science) a device that writes data onto or reads data from a storage medium
+02613137	03252787	Synset('dual_scan_display.n.01')	a type of passive matrix display in which the top and bottom half of the screen are refreshed simultaneously
+02631938	03277149	Synset('electron_gun.n.01')	the electrode that is the source of electrons in a cathode-ray tube or electron microscope; consists of a cathode that emits a stream of electrons and the electrostatic or electromagnetic apparatus that focuses it
+02644947	03294604	Synset('erasable_programmable_read-only_memory.n.01')	(computer science) a read-only memory chip that can be erased by ultraviolet light and programmed again with new data
+02648485	03300216	Synset('ethernet.n.01')	a type of network technology for local area networks; coaxial cable carries radio frequency signals between computers at a rate of 10 megabits per second
+02648758	03300443	Synset('ethernet_cable.n.01')	any of several types of coaxial cable used in ethernets
+02654850	03307792	Synset('external_drive.n.01')	a drive with its own power supply and fan mounted outside the computer system enclosure and connected to the computer by a cable
+02678254	03337494	Synset('file_server.n.01')	(computer science) a digital computer that provides workstations on a network with controlled access to shared resources
+02713562	03382708	Synset('foreground.n.02')	(computer science) a window for an active application
+02719952	03391613	Synset('frame_buffer.n.01')	(computer science) a buffer that stores the contents of an image pixel by pixel
+02747511	03427656	Synset('gate.n.02')	a computer circuit with several inputs but only one output that can be activated by particular combinations of inputs
+02771524	03997027	Synset('power_system.n.01')	a system of high tension cables by which electrical power is distributed throughout a region
+02792184	03485407	Synset('hand-held_computer.n.01')	a portable battery-powered computer small enough to be carried in your pocket
+02798214	03492542	Synset('hard_disc.n.01')	a rigid magnetic disk mounted permanently in a drive unit
+02798795	03493333	Synset('hardware.n.03')	(computer science) the mechanical, magnetic, electronic, and electrical components making up a computer system
+02861559	03577090	Synset('integrated_circuit.n.01')	a microelectronic computer circuit incorporated into a chip or semiconductor; a whole system rather than a single component
+02862795	03578656	Synset('interface.n.04')	(computer science) computer circuit consisting of the hardware and associated circuitry that links one device with another (especially a computer and a hard disk drive or other peripherals)
+02864229	03580518	Synset('internal_drive.n.01')	a drive mounted inside of a computer
+02864326	03580615	Synset('internet.n.01')	a computer network consisting of a worldwide network of computer networks that use the TCP/IP network protocols to facilitate data transmission and exchange
+02880192	03602883	Synset('joystick.n.02')	a manual control consisting of a vertical handle that can move freely in two directions; used as an input device to computers or to devices controlled by computers
+02887166	03614007	Synset('keyboard.n.01')	device consisting of a set of keys on a piano or organ or typewriter or typesetting machine or computer or the like
+02887500	03614383	Synset('keyboard_buffer.n.01')	a buffer that keeps track of key strokes until the computer is ready to respond to them
+02889287	03617594	Synset('kinescope.n.01')	a cathode-ray tube in a television receiver; translates the received signal into a picture on a luminescent screen
+02907485	03642806	Synset('laptop.n.01')	a portable computer small enough to use in your lap
+02925646	03668279	Synset('light_pen.n.01')	(computer science) a pointer that when pointed at a computer display senses whether or not the spot is illuminated
+02931570	03676759	Synset('liquid_crystal_display.n.01')	a digital display that uses liquid crystal cells that change reflectivity in an applied electric field; used for portable computer displays and watches etc.
+02935420	03681477	Synset('local_area_network.n.01')	a local computer network for communication between computers; especially a network connecting computers and word processors and other electronic office equipment to create a communication system between offices
+02955026	03706653	Synset('magnetic_disk.n.01')	(computer science) a memory device consisting of a flat disk covered with a magnetic coating on which information is stored
+02956039	03708036	Synset('magnetic_tape.n.01')	memory device consisting of a long thin plastic strip coated with iron oxide; used to record audio or video signals or to store computer information
+02959302	03711711	Synset('mainframe.n.01')	a large digital computer serving 100-400 users and occupying a special air-conditioned room
+02984419	03744276	Synset('memory.n.04')	an electronic memory device
+02984735	03744684	Synset('memory_chip.n.01')	a RAM microchip that can be plugged into a computer to provide additional memory
+02984873	03744840	Synset('memory_device.n.01')	a device that preserves information for retrieval
+02995539	03760310	Synset('microprocessor.n.01')	integrated circuit semiconductor chip that performs the bulk of the processing and controls the parts of a system
+03002925	03770224	Synset('minicomputer.n.01')	a digital computer of medium size
+03007781	03777754	Synset('modem.n.01')	(from a combination of MOdulate and DEModulate) electronic equipment consisting of a device used to connect computers by a telephone line
+03008503	03778817	Synset('module.n.03')	computer circuit consisting of an assembly of electronic components (as of computer hardware)
+03011151	03782190	Synset('monitor.n.04')	display produced by a device that takes signals and displays them on a television screen or a computer monitor
+03020109	03793489	Synset('mouse.n.04')	a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad
+03024032	03799240	Synset('multiprocessor.n.01')	a computer that uses two or more processing units under integrated control
+03031295	03810186	Synset('national_association_of_securities_dealers_automated_quotations.n.01')	a computerized data system to provide brokers with price quotations for securities traded over the counter
+03038207	03820728	Synset('network.n.05')	(electronics) a system of interconnected electronic components or circuits
+03042473	03827107	Synset('node.n.08')	(computer science) any computer that is hooked up to a computer network
+03043159	03827830	Synset('non-dedicated_file_server.n.01')	(computer science) a file server that can be used simultaneously as a workstation
+03046048	03832673	Synset('notebook.n.02')	a small compact portable computer
+03047816	03835582	Synset('number_cruncher.n.02')	a computer capable of performing a large number of mathematical operations per second
+03053430	03842377	Synset('off-line_equipment.n.01')	electronic equipment not in direct communication (or under the control of) the central processing unit
+03061867	03853454	Synset('or_circuit.n.01')	a gate circuit in a computer that fires when any of its inputs fire
+03065395	03857828	Synset('oscilloscope.n.01')	electronic equipment that provides visual images of varying electrical quantities
+03087863	03888998	Synset('parallel_interface.n.01')	an interface between a computer and a printer where the computer sends multiple bits of information to the printer simultaneously
+03089030	03890514	Synset('pari-mutuel_machine.n.01')	computer that registers bets and divides the total amount bet among those who won
+03093690	03896628	Synset('passive_matrix_display.n.01')	a type of LCD display used for some portable computers; parallel wires run both vertically and horizontally and pixels are turned on when the wires intersecting at that pixel are both energized
+03098546	03902220	Synset('pc_board.n.01')	a removable circuit board for a personal computer; fits into a slot in the mother board
+03108275	03916720	Synset('peripheral.n.01')	(computer science) electronic equipment connected by cable to the CPU of a computer
+03109520	03918480	Synset('personal_computer.n.01')	a small digital computer based on a microprocessor and designed to be used by one person at a time
+03116176	03928814	Synset('piano_keyboard.n.01')	a bank of keys on a musical instrument
+03134536	03952277	Synset('pixel.n.01')	(computer science) the smallest discrete component of an image or picture on a CRT screen (usually a colored dot)
+03158921	03985232	Synset('portable_computer.n.01')	a personal computer that can easily be carried by hand
+03161514	03987990	Synset('positron_emission_tomography_scanner.n.01')	a tomograph that produces cross-sectional X-rays of metabolic processes in the body
+03173101	04004099	Synset('print_buffer.n.01')	a buffer that stores data until the printer is ready
+03173212	04004210	Synset('printed_circuit.n.01')	computer circuit consisting of an electronic sub-assembly; copper conductors are laminated on an insulating board or card and circuit components are inserted into holes and dip soldered
+03173714	04004767	Synset('printer.n.02')	(computer science) an output device that prints the results of data processing
+03191147	04027504	Synset('push-down_storage.n.01')	a storage device that handles data so that the next item to be retrieved is the item most recently stored (LIFO)
+03198160	04036303	Synset('qwerty_keyboard.n.01')	the standard typewriter keyboard; the keys for Q, W, E, R, T, and Y are the first six from the left on the top row of letter keys
+03210336	04050600	Synset('ram_disk.n.01')	(computer science) a virtual drive that is created by setting aside part of the random-access memory to use as if it were a group of sectors
+03212141	04052757	Synset('random-access_memory.n.01')	the most common computer memory which can be used by programs to perform necessary tasks while the computer is on; an integrated circuit memory chip allows information to be stored or accessed in any order and all storage locations are equally accessible
+03216271	04058239	Synset('read-only_memory.n.01')	(computer science) memory whose contents can be accessed and read but cannot be changed
+03216499	04058721	Synset('read/write_head.n.01')	(computer science) a tiny electromagnetic coil and metal pole used to write and read magnetic patterns on a disk
+03216841	04059298	Synset('real_storage.n.01')	the main memory in a virtual memory system
+03228795	04075468	Synset('removable_disk.n.01')	a hard disk that can be removed from the disk drive; removal prevents unauthorized use
+03235693	04084517	Synset('return_key.n.01')	the key on electric typewriters or computer keyboards that causes a carriage return and a line feed
+03254648	04110439	Synset('rotary_actuator.n.01')	(computer science) the actuator that moves a read/write head to the proper data track
+03285911	04151228	Synset('scratchpad.n.01')	(computer science) a high-speed internal memory used for temporary storage of preliminary information
+03286767	04152593	Synset('screen.n.03')	the display that is electronically created on the surface of the large end of a cathode-ray tube
+03287472	04153436	Synset('screen_saver.n.01')	(computer science) a moving design that appears on a computer screen when there has been no input for a specified period of time
+03302878	04174234	Synset('serial_port.n.01')	an interface (commonly used for modems and mice and some printers) that transmits data a bit at a time
+03303483	04175147	Synset('server.n.03')	(computer science) a computer that provides client stations with access to files and printers as shared resources to a computer network
+03352324	04238763	Synset('slide_rule.n.01')	analog computer consisting of a handheld instrument used for rapid calculations; have been replaced by pocket calculators
+03356080	04243727	Synset('slot.n.06')	(computer) a socket in a microcomputer that will accept a plug-in circuit board
+03357382	04245218	Synset('small_computer_system_interface.n.01')	interface consisting of a standard port between a computer and its peripherals that is used in some computers
+03367250	04257533	Synset('software_package.n.02')	merchandise consisting of a computer program that is offered for sale
+03373173	04264628	Synset('space_bar.n.01')	the bar-shaped typewriter key that introduces spaces when used
+03383306	04277493	Synset('spindle.n.03')	any of various rotating shafts that serve as axes for larger rotating parts
+03460469	04377842	Synset('system_clock.n.02')	an electronic device in a computer that issues a steady high-frequency signal that synchronizes all the internal components
+03499737	04429756	Synset('throughput.n.01')	output relative to input; the amount passing through a system from input to output (especially of a computer program over a period of time)
+03515665	04450243	Synset('tomograph.n.01')	X-ray machine in which a computer builds a detailed image of a particular plane through an object from multiple X-ray measurements
+03526436	04464211	Synset('track.n.07')	(computer science) one of the circular magnetic paths on a magnetic disk that serve as a guide for writing and reading data
+03538975	04481946	Synset('tricolor_television_tube.n.01')	a color television tube in which three primary colors are combined to give the full range of colors
+03557476	04505470	Synset('typewriter_keyboard.n.01')	a keyboard for manually entering characters to be printed
+03580131	04537919	Synset('virtual_memory.n.01')	(computer science) memory created by using the hard disk to simulate additional random-access memory; the addressable storage space available to the user of a computer system in which virtual addresses are mapped into real addresses
+03582614	04541777	Synset('von_neumann_machine.n.01')	any digital computer incorporating the ideas of stored programs and serial counters that were proposed in 1946 by von Neumann and his colleagues
+03616801	04583477	Synset('wide_area_network.n.01')	a computer network that spans a wider area than does a local area network
+03620959	04588739	Synset('window.n.08')	(computer science) a rectangular part of a computer screen that contains a display different from the rest of the screen
+03632472	04603399	Synset('workstation.n.01')	a desktop digital computer that is conventionally considered to be more powerful than a microcomputer
+03632937	04604276	Synset('world_wide_web.n.01')	computer network consisting of a collection of internet sites that offer text and graphics and sound and animation resources through the hypertext transfer protocol
+03637473	04609354	Synset('x-or_circuit.n.01')	gate for exclusive OR; a circuit in a computer that fires only if only one of its inputs fire
+03859083	04932278	Synset('computer_architecture.n.02')	(computer science) the structure and organization of a computer's hardware or system software
+03859575	04932875	Synset('reduced_instruction_set_computing.n.01')	(computer science) a kind of computer architecture that has a relatively small set of computer instructions that it can perform
+03890613	04978561	Synset('nonsolid_color.n.01')	a color produced by a pattern of differently colored dots that together simulate the desired color
+03950920	05061619	Synset('execution_speed.n.01')	(computer science) the speed with which a computational device can execute instructions; measured in MIPS
+03970781	05089048	Synset('bits_per_inch.n.01')	a measure of how densely information is packed on a storage medium
+04424844	05728493	Synset('data_structure.n.01')	(computer science) the organization of data (and its storage allocations in a computer)
+04424991	05732273	Synset('hierarchical_structure.n.01')	a structure of data having several levels arranged in a treelike structure
+04443911	05760751	Synset('working_memory.n.01')	memory for intermediate results that must be held during thinking
+04467427	05796750	Synset('problem_solving.n.02')	the thought processes involved in solving a problem
+04468129	05798043	Synset('experiment.n.02')	the testing of an idea
+04469067	05799071	Synset('pilot_experiment.n.01')	a preliminary experiment whose outcome can lead to a more extensive experiment
+04487438	05825942	Synset('parity_check.n.01')	a system of checking for errors in computer functioning
+04508967	05864177	Synset('random_variable.n.01')	a variable quantity that is random
+04650503	06108643	Synset('information_theory.n.01')	(computer science) a statistical theory dealing with the limits and efficiency of information processing
+04663525	06128570	Synset('computer_science.n.01')	the branch of engineering science that studies (with the aid of computers) computable processes and structures
+04663754	06133203	Synset('artificial_intelligence.n.01')	the branch of computer science that deal with writing computer programs that can solve problems creatively
+04664054	06133503	Synset('machine_translation.n.01')	the use of computers to translate from one language to another
+04664182	06133654	Synset('robotics.n.01')	the area of AI concerned with the practical use of robots
+04664330	06133802	Synset('animatronics.n.01')	the construction of robots to look like animals (developed for Disneyland)
+04664463	06133935	Synset('telerobotics.n.01')	the area of robotics that is concerned with the control of robots from a distance
+04735017	06261922	Synset('hypermedia.n.01')	a multimedia system in which related items of information are connected and can be presented together
+04735270	06262176	Synset('hypertext.n.01')	machine-readable text that is not sequential but is organized so that related items of information are connected
+04745878	06278662	Synset('electronic_communication.n.01')	communication by computer
+04746028	06278830	Synset('digital_communication.n.01')	electronic transmission of information that has been encoded digitally (as for storage and processing by computers)
+04746250	06279071	Synset('asynchronous_transfer_mode.n.01')	a means of digital communications that is capable of very high speeds; suitable for transmission of images or voice or video as well as data
+04746505	06279326	Synset('electronic_mail.n.01')	(computer science) a system of world-wide electronic communication in which a computer user can compose a message at one terminal that can be regenerated at the recipient's terminal when the recipient logs in
+04746775	06280604	Synset('prompt.n.02')	(computer science) a symbol that appears on the computer screen to indicate that the computer is ready to receive a command
+04792090	06355894	Synset('code.n.03')	(computer science) the symbolic arrangement of data or instructions in a computer program or the set of such instructions
+04792458	06356515	Synset('address.n.01')	(computer science) the code that identifies where a piece of information is stored
+04792613	06356755	Synset('american_standard_code_for_information_interchange.n.01')	(computer science) a code for information exchange between computers made by different companies; a string of 7 binary digits represents each character; used in most microcomputers
+04792917	06357078	Synset('ascii_character_set.n.01')	(computer science) 128 characters that make up the ASCII coding scheme
+04793123	06357304	Synset('binary_code.n.01')	code using a string of 8 binary digits to represent characters
+04793243	06357424	Synset('error_correction_code.n.01')	(telecommunication) a coding system that incorporates extra parity bits in order to detect errors
+04793431	06357632	Synset('cyclic_redundancy_check.n.01')	an error correction code that is recorded in each sector of a magnetic disk and used to catch errors in the data
+04793613	06357814	Synset('firmware.n.01')	(computer science) coded instructions that are stored permanently in read-only memory
+04793753	06357985	Synset('machine_code.n.01')	a set of instructions coded so that the computer can use it directly without further translation
+04793927	06358159	Synset('object_code.n.01')	the machine-language output of a compiler that is ready for execution on a particular computer
+04794079	06358311	Synset('operation_code.n.01')	the portion of a set of operation descriptions that specifies the operation to be performed; the set of operations in a computer
+04794281	06358513	Synset('source_code.n.01')	program instructions written as an ASCII text file; must be translated by a compiler or interpreter or assembler into the object code for a particular computer before execution
+04872091	06490451	Synset('directory.n.02')	(computer science) a listing of the files stored in memory (usually on a hard disk)
+04872248	06490743	Synset('subdirectory.n.01')	(computer science) a directory that is listed in another directory
+04873746	06493392	Synset('menu.n.03')	(computer science) a list of options available to a computer user
+04873896	06493721	Synset('hierarchical_menu.n.01')	a secondary menu that appears while you are holding the cursor over an item on the primary menu
+04874469	06494816	Synset('queue.n.02')	(information processing) an ordered list of tasks to be performed or messages to be transmitted
+04880008	06502054	Synset('push-down_queue.n.01')	a queue in which the last item to go in is the first item to come out (LIFO)
+04885246	06509210	Synset('computer_file.n.01')	(computer science) a file maintained in computer-readable form
+04885530	06509513	Synset('backup_file.n.01')	(computer science) a computer file dedicated to storing and updating computer backups
+04885673	06509675	Synset('binary_file.n.01')	(computer science) a computer file containing machine-readable information that must be read by an application; characters use all 8 bits of each byte
+04885881	06509902	Synset('master_file.n.01')	(computer science) a computer file that is used as the authority in a given job and that is relatively permanent
+04886063	06510103	Synset('disk_file.n.01')	(computer science) a computer file stored on a magnetic disk and identified by a unique label
+04886212	06510271	Synset('transaction_file.n.01')	(computer science) a computer file containing relatively transient data about a particular data processing task
+04886400	06510478	Synset('input_file.n.01')	(computer science) a computer file that contains data that serve as input to a device or program
+04886566	06510663	Synset('output_file.n.01')	(computer science) a computer file that contains data that are the output of a device or program
+04886720	06510836	Synset('read-only_file.n.01')	(computer science) a file that you can read but cannot change
+04886842	06510977	Synset('text_file.n.01')	(computer science) a computer file that contains text (and possibly formatting instructions) using seven-bit ASCII characters
+04887048	06511242	Synset('ascii_text_file.n.01')	a text file that contains only ASCII characters without special formatting
+04927772	06566077	Synset('software.n.01')	(computer science) written programs or procedures or rules and associated documentation pertaining to the operation of a computer system and that are stored in read/write memory
+04928310	06566805	Synset('alpha_software.n.01')	a first release of a software product that is usually tested only by the developers
+04928454	06566949	Synset('authoring_language.n.01')	software that can be used to develop interactive computer programs without the technically demanding task of computer programming
+04928648	06567143	Synset('beta_software.n.01')	software that has not yet been released but has received an alpha test and still has more bugs than a regular release
+04928887	06567400	Synset('compatible_software.n.02')	software that can run on different computers without modification
+04929018	06567531	Synset('compatible_software.n.01')	application software programs that share common conventions so they can be utilized together
+04929176	06567689	Synset('computer-aided_design.n.01')	software used in art and architecture and engineering and manufacturing to assist in precision drawing
+04929352	06567865	Synset('freeware.n.01')	software that is provided without charge
+04929447	06567960	Synset('groupware.n.01')	software that can be used by a group of people who are working on the same information but may be distributed in space
+04929621	06568134	Synset('operating_system.n.01')	(computer science) software that controls the execution of computer programs and may provide various services
+04929853	06568422	Synset('dos.n.02')	an operating system that is on a disk
+04929982	06568552	Synset('ms-dos.n.01')	an operating system developed by Bill Gates for personal computers
+04930129	06568706	Synset('unix.n.01')	trademark for a powerful operating system
+04930290	06568978	Synset('program.n.07')	(computer science) a sequence of instructions that a computer can interpret and execute
+04931025	06570110	Synset('application.n.04')	a program that gives a computer instructions that provide the user with tools to accomplish a task
+04931399	06570520	Synset('active_application.n.01')	an application that is currently running and in the foreground
+04931526	06570647	Synset('applet.n.01')	a Java application; an application program that uses the client's web browser to provide a user interface
+04931684	06571301	Synset('browser.n.02')	a program used to view HTML documents
+04931825	06571790	Synset('mosaic.n.03')	a freeware browser
+04931896	06571862	Synset('netscape.n.01')	a commercial browser
+04931971	06572482	Synset('job.n.11')	(computer science) a program application that may consist of several steps but is a single logical unit
+04932124	06572654	Synset('word_processor.n.01')	an application that provides the user with tools needed to write and edit and format text and to send it to a printer
+04932327	06572857	Synset('loop.n.06')	a computer program that performs a series of instructions repeatedly until some specified condition is satisfied
+04932490	06573223	Synset('patch.n.05')	a short set of commands to correct a bug in a computer program
+04932604	06573337	Synset('assembler.n.01')	a program to convert assembly language into machine language
+04932742	06573472	Synset('checking_program.n.01')	a program that examines other computer programs for syntax errors
+04932870	06573600	Synset('compiler.n.02')	(computer science) a program that decodes instructions written in a higher order language and produces an assembly language program
+04933146	06573934	Synset('c_compiler.n.01')	a compiler for programs written in C
+04933239	06574027	Synset('fortran_compiler.n.01')	a compiler for programs written in FORTRAN
+04933344	06574132	Synset('lisp_compiler.n.01')	a compiler for programs written in LISP
+04933443	06574231	Synset('pascal_compiler.n.01')	a compiler for programs written in Pascal
+04933546	06574334	Synset('debugger.n.01')	a program that helps in locating and correcting programming errors
+04933667	06574473	Synset('driver.n.04')	(computer science) a program that determines how a computer will communicate with a peripheral device
+04933837	06574680	Synset('diagnostic_program.n.01')	a program that recognizes and explains faults in the equipment or mistakes in a computer program
+04933998	06574841	Synset('editor_program.n.01')	(computer science) a program designed to perform such editorial functions as rearrangement or modification or deletion of data
+04934230	06575092	Synset('input_program.n.01')	a utility program that organizes the input to a computer
+04934365	06575227	Synset('interface.n.02')	(computer science) a program that controls a display for the user (usually on a computer monitor) and that allows the user to interact with the system
+04934624	06575505	Synset('command_line_interface.n.01')	a user interface in which you type commands instead of choosing them from a menu or selecting an icon
+04934800	06575681	Synset('graphical_user_interface.n.01')	a user interface based on graphics (icons and pictures and menus) instead of text; uses a mouse as well as a keyboard as an input device
+04935051	06575932	Synset('interpreter.n.04')	(computer science) a program that translates and executes source language statements one line at a time
+04935235	06576153	Synset('job_control.n.01')	a program that is called to prepare each job to be run
+04935347	06576265	Synset('library_program.n.01')	a program in a program library
+04935458	06576376	Synset('linkage_editor.n.01')	an editor program that creates one module from several by resolving cross-references among the modules
+04935621	06576539	Synset('monitor_program.n.01')	a program that observes and regulates and controls or verifies the operations of a data-processing system
+04935809	06576727	Synset('text_editor.n.02')	(computer science) an application that can be used to create and view and edit text files
+04935956	06576893	Synset('object_program.n.01')	a fully compiled or assembled program ready to be loaded into the computer
+04936126	06577063	Synset('source_program.n.01')	a program written in a language from which statements are translated into machine language
+04936295	06577232	Synset('output_program.n.01')	a utility program that organizes the output of a computer
+04936432	06578060	Synset('relocatable_program.n.01')	a program that can be located in different parts of memory at different times
+04936575	06578203	Synset('reusable_program.n.01')	a program that can be loaded once and executed repeatedly
+04936695	06579452	Synset('self-adapting_program.n.01')	a program that can change its performance in response to its environment
+04936835	06579592	Synset('snapshot_program.n.01')	a trace program that produces output for selected conditions
+04936958	06579952	Synset('spreadsheet.n.01')	a screen-oriented interactive program enabling a user to lay out financial data on the screen
+04937109	06580103	Synset('sort_program.n.01')	a utility program that sorts data items
+04937225	06580351	Synset('supervisory_program.n.01')	a program that controls the execution of other programs
+04937418	06580543	Synset('syntax_checker.n.01')	a program to check natural language syntax
+04937521	06580646	Synset('system_program.n.01')	a program (as an operating system or compiler or utility program) that controls some aspect of the operation of a computer
+04937741	06580866	Synset('trace_program.n.01')	a utility program that exhibits the sequence and results of executing the instructions in another program
+04937943	06581268	Synset('translator.n.03')	a program that translates one programming language into another
+04938103	06581410	Synset('utility_program.n.01')	(computer science) a program designed for general support of the processes of a computer
+04938497	06581959	Synset('decision_table.n.01')	a table of all contingencies and the actions to be taken for each
+04938633	06582085	Synset('flow_chart.n.01')	a diagram of the sequence of operations in a computer program or an accounting system
+04938766	06582267	Synset('logic_diagram.n.01')	a graphical representation of a program using formal logic
+04938902	06582403	Synset('routine.n.03')	a set sequence of steps, part of larger computer program
+04939242	06582761	Synset('call.n.10')	an instruction that interrupts the program being executed
+04939467	06582986	Synset('function_call.n.01')	a call that passes control to a subroutine; after the subroutine is executed control returns to the next instruction in main program
+04939659	06583178	Synset('cataloged_procedure.n.01')	a set of control statements that have been placed in a library and can be retrieved by name
+04939835	06583354	Synset('contingency_procedure.n.01')	an alternative to the normal procedure; triggered if an unusual but anticipated situation arises
+04939999	06583518	Synset('dump_routine.n.01')	a routine that writes from an internal store to some external medium
+04940126	06583645	Synset('input_routine.n.01')	a routine that writes from an external source to an internal store
+04940271	06583790	Synset('library_routine.n.01')	a debugged routine that is maintained in a program library
+04940410	06583929	Synset('output_routine.n.01')	a routine that controls an output device
+04940530	06584049	Synset('random_number_generator.n.01')	a routine designed to yield a random number
+04940643	06584162	Synset('recursive_routine.n.01')	a routine that can call itself
+04940737	06584256	Synset('reusable_routine.n.01')	a routine that can be loaded once and executed repeatedly
+04940857	06584376	Synset('supervisory_routine.n.01')	a routine that coordinates the operation of subroutines
+04941017	06584536	Synset('tracing_routine.n.01')	a routine that provides a chronological record of the execution of a computer program
+04941183	06584702	Synset('utility_routine.n.01')	a routine that can be used as needed
+04941372	06584891	Synset('instruction.n.04')	(computer science) a line of code written as part of a computer program
+04941647	06586355	Synset('command_line.n.01')	commands that a user types in order to run an application
+04941766	06586886	Synset('macro.n.01')	a single computer instruction that results in a series of instructions in machine language
+04941908	06587048	Synset('system_error.n.01')	an instruction that is either not recognized by an operating system or is in violation of the procedural rules
+04942077	06587217	Synset('system_call.n.01')	an instruction that interrupts the program being executed and passes control to the supervisor
+04942259	06587399	Synset('toggle.n.01')	any instruction that works first one way and then the other; it turns something on the first time it is used and then turns it off the next time
+04942456	06587596	Synset('shareware.n.01')	software that is available free of charge; may be distributed for evaluation with a fee requested for additional features or a manual etc.
+04942616	06588139	Synset('supervisory_software.n.01')	specialized programs that reside permanently in the computer's main memory and control the processing of user's programs
+04942803	06588326	Synset('software_documentation.n.01')	program listings or technical manuals describing the operation and use of programs
+04942970	06588511	Synset('electronic_database.n.01')	(computer science) a database that can be accessed by computers
+04943225	06588785	Synset('database_management_system.n.01')	a software system that facilitates the creation and maintenance and use of an electronic database
+04943438	06588998	Synset('relational_database_management_system.n.01')	a database management system designed to manage a relational database
+04943591	06589151	Synset('object-oriented_database_management_system.n.01')	a database management system designed to manage an object-oriented database
+04943791	06589352	Synset('hypertext_system.n.01')	a database management system that allows strings of text (`objects') to be processed as a complex network of nodes that are linked together in an arbitrary way
+04979062	06636806	Synset('format.n.01')	the organization of information according to preset specifications (usually for computer processing)
+04979296	06637149	Synset('high-level_formatting.n.01')	(computer science) the format for the root directory and the file allocation tables and other basic configurations
+04979478	06637350	Synset('low-level_formatting.n.01')	(computer science) the format of sectors on the surface of a hard disk drive so that the operating system can access them and setting a starting position
+04979970	06637973	Synset('relational_database.n.01')	a database in which relations between information items are explicitly specified as accessible attributes
+04980232	06638527	Synset('object-oriented_database.n.01')	a database in which the operations carried out on information items (data objects) are considered part of their definition
+04980573	06638868	Synset('lexical_database.n.01')	a database of information about words
+04980709	06639023	Synset('machine_readable_dictionary.n.01')	a machine-readable version of a standard dictionary; organized alphabetically
+04980890	06639428	Synset('wordnet.n.01')	any of the machine-readable lexical databases modeled after the Princeton WordNet
+04998026	06665108	Synset('protocol.n.01')	(computer science) rules determining the format and transmission of data
+04998269	06665370	Synset('file_transfer_protocol.n.01')	protocol that allows users to copy files between their local system and any system they can reach on the network
+04998493	06665612	Synset('anonymous_ftp.n.01')	a common way to make software available; users are allowed to log in as `guest' without a password and copy whatever has been made available
+04998728	06665847	Synset('hypertext_transfer_protocol.n.01')	a protocol (utilizing TCP) to transfer hypertext requests and information between servers and browsers
+04998911	06666030	Synset('musical_instrument_digital_interface.n.01')	a standard protocol for communication between electronic musical instruments and computers
+04999091	06666210	Synset('transmission_control_protocol.n.01')	a protocol developed for the internet to get data from one network device to another
+04999367	06666486	Synset('transmission_control_protocol/internet_protocol.n.01')	a set of protocols (including TCP) developed for the internet in the 1970s to get data from one network device to another
+05083856	06787835	Synset('markup_language.n.01')	a set of symbols and rules for their use when doing a markup of a document
+05084028	06788007	Synset('standard_generalized_markup_language.n.01')	(computer science) a standardized language for the descriptive markup of documents; a set of rules for using whatever markup vocabulary is adopted
+05084264	06788262	Synset('hypertext_markup_language.n.01')	a set of tags and rules (conforming to SGML) for using them in developing hypertext documents
+05108664	06820425	Synset('ascii_character.n.01')	any member of the standard code for representing characters by binary numbers
+05113802	06826407	Synset('font_cartridge.n.01')	any font that is contained in a cartridge that can be plugged into a computer printer
+05114929	06827679	Synset('screen_font.n.01')	the font that is displayed on a computer screen
+05128216	06845303	Synset('domain_name.n.01')	strings of letters and numbers (separated by periods) that are used to name organizations and computers and addresses on the internet
+05162548	06898352	Synset('programming_language.n.01')	(computer science) a language designed for programming computers
+05162971	06898794	Synset('algebraic_language.n.01')	an algorithmic language having statements that resemble algebraic expressions
+05163149	06898972	Synset('algorithmic_language.n.01')	an artificial language designed to express algorithms
+05163487	06899310	Synset('assembly_language.n.01')	a low-level programing language; close approximation to machine language
+05163810	06899633	Synset('computer_language.n.01')	a programming language designed for use on a specific class of computers
+05164477	06900282	Synset('multidimensional_language.n.01')	a programming language whose expressions are assembled in more than one dimension
+05164702	06900507	Synset('object_language.n.01')	a computer language into which something written in another computer language is to be translated
+05164879	06900684	Synset('object-oriented_programming_language.n.01')	(computer science) a programming language that enables the programmer to associate a set of procedures with each type of data structure
+05165229	06901053	Synset('java.n.03')	a platform-independent object-oriented programming language
+05165459	06901163	Synset('one-dimensional_language.n.01')	a programming language whose expressions are represented by strings of characters
+05165629	06901333	Synset('stratified_language.n.01')	a language that cannot be used as its own metalanguage
+05165887	06901591	Synset('unstratified_language.n.01')	a programming language that (like natural language) can be used as its own metalanguage
+05166060	06901764	Synset('algol.n.02')	(from a combination of ALGOrithmic and Language); a programming language used to express computer programs as algorithms
+05166205	06901936	Synset('lisp.n.02')	a flexible procedure-oriented programing language that manipulates symbols in the form of lists
+05166378	06902109	Synset('lisp_program.n.01')	a program written in LISP
+05166462	06902193	Synset('prolog.n.01')	a computer language designed in Europe to support natural language processing
+05166631	06902362	Synset('fortran.n.01')	a high-level programing language for mathematical and scientific purposes; stands for formula translation
+05166777	06902521	Synset('fortran_program.n.01')	a program written in FORTRAN
+05166867	06902611	Synset('cobol.n.01')	common business-oriented language
+05166952	06902696	Synset('c.n.09')	a general-purpose programing language closely associated with the UNIX operating system
+05167087	06902831	Synset('c_program.n.01')	a program written in C
+05167165	06902909	Synset('basic.n.01')	a popular programming language that is relatively easy to learn; an acronym for beginner's all-purpose symbolic instruction code; no longer in general use
+05167357	06903115	Synset('pascal.n.03')	a programing language designed to teach programming through a top-down modular approach
+05389120	07213717	Synset('display.n.04')	behavior that makes your feelings public
+05389274	07213889	Synset('histrionics.n.02')	a deliberate display of emotion for effect
+05389374	07214150	Synset('sackcloth_and_ashes.n.01')	a display of extreme remorse or repentance or grief
+05421788	07264820	Synset('input_signal.n.01')	signal going into an electronic system
+05421893	07264925	Synset('output_signal.n.01')	signal that comes out of an electronic system
+05422025	07265075	Synset('printout.n.01')	the output of a computer in printed form
+05425814	07269916	Synset('icon.n.01')	(computer science) a graphic symbol (usually a simple picture) that denotes a program or a command or a data file or a concept in a graphical user interface
+05476284	07350893	Synset('seek.n.01')	the movement of a read/write head to a specific data track on a disk
+05560336	07478874	Synset('crash.n.05')	(computer science) an event that causes a computer system to become inoperative
+05560569	07479144	Synset('head_crash.n.01')	(computer science) a crash of a read/write head in a hard disk drive (usually caused by contact of the head with the surface of the magnetic disk)
+05980872	07977592	Synset('library.n.04')	(computing) a collection of standard programs and subroutines that are stored and available for immediate use
+06239860	08435937	Synset('subsystem.n.01')	a system that is part of some larger system
+06306925	08555883	Synset('disk_space.n.01')	(computer science) the space available on a magnetic disk
+06307088	08556065	Synset('disk_overhead.n.01')	(computer science) the disk space required for information that is not data but is used for location and timing
+06307257	08556266	Synset('swap_space.n.01')	the disk space that is set aside for virtual memory
+07173968	09951070	Synset('computer_scientist.n.01')	a scientist who specializes in the theory of computation and the design of computers
+07174117	09950917	Synset('computer_expert.n.01')	an authority on computers and computing
+07657046	10739297	Synset('unix_guru.n.01')	an expert on the UNIX operating system
+07833814	11505952	Synset('resolution.n.07')	(computer science) the number of pixels per square inch on a computer-generated display; the greater the resolution, the better the picture
+09743971	13479380	Synset('feedback.n.01')	the process in which part of the output of a system is returned to its input in order to regulate its further output
+09744434	13539262	Synset('positive_feedback.n.01')	feedback in phase with (augmenting) the input
+09744561	13520731	Synset('negative_feedback.n.01')	feedback in opposite phase with (decreasing) the input
+09746244	13455487	Synset('data_processing.n.01')	(computer science) a series of operations on data by a computer in order to retrieve or transform or classify information
+09746612	13436063	Synset('automatic_data_processing.n.01')	data processing by a computer
+09746755	13472341	Synset('electronic_data_processing.n.01')	automatic data processing by electronic means without the use of tabulating cards or punched tapes
+09746932	13500860	Synset('integrated_data_processing.n.01')	automatic data processing in which data acquisition and other stages or processing are integrated into a coherent system
+09747131	13524925	Synset('operation.n.04')	(computer science) data processing in which the result is completely specified by a rule (especially the processing that results from a single instruction)
+09747736	13435377	Synset('asynchronous_operation.n.01')	operations that occur without a regular or predictable time relation to other events
+09747930	13436809	Synset('auxiliary_operation.n.01')	a operation performed by off-line equipment not under the control of the central processing unit
+09748113	13440935	Synset('boolean_operation.n.01')	an operation that follows the rules of Boolean algebra; each operand and the result take one of two values
+09748332	13450862	Synset('computer_operation.n.01')	an elementary operation that a computer is designed and built to perform
+09748525	13451204	Synset('concurrent_operation.n.01')	two or more operations performed at the same time (or within a give interval)
+09748669	13452117	Synset('control_operation.n.01')	an operation that controls the recording or processing or transmission of interpretation of data
+09748899	13470392	Synset('dyadic_operation.n.01')	an operation on exactly two operands
+09748998	13481727	Synset('fixed-cycle_operation.n.01')	an operation that is completed in a specified number of regularly timed execution cycles
+09749154	13509042	Synset('logic_operation.n.01')	an operation that follows the rules of symbolic logic
+09749289	13517080	Synset('monadic_operation.n.01')	an operation with exactly one operand
+09749408	13510638	Synset('majority_operation.n.01')	a threshold operation in which each operand is 0 or 1; output is 1 if and only if more than half the operands have the value 1
+09749599	13517717	Synset('multiplex_operation.n.01')	an operation in which two or more activities are interleaved
+09749725	13532196	Synset('parallel_operation.n.01')	the simultaneous execution of two or more operations
+09749885	13540791	Synset('printing_operation.n.01')	an operation that controls the printing or display of information
+09750069	13554800	Synset('serial_operation.n.01')	the sequential execution of operations one after another
+09750253	13477462	Synset('execution.n.03')	(computer science) the process of carrying out an instruction by a computer
+09750420	13437902	Synset('batch_processing.n.01')	the serial execution of computer programs
+09750677	13427633	Synset('administrative_data_processing.n.01')	data processing in accounting or business management
+09750833	13540975	Synset('priority_processing.n.01')	data processing in which the operations performed are determined by a system of priorities
+09751025	13436992	Synset('background_processing.n.01')	the execution of low priority programs while higher priority programs are not using the processing system
+09751214	13483331	Synset('foreground_processing.n.01')	the execution of a program that preempts the use of the processing system
+09751371	13468542	Synset('distributed_data_processing.n.01')	data processing in which some of the functions are performed in different places and connected by transmission facilities
+09751615	13508830	Synset('list_processing.n.01')	processing data that is given in the form of chained lists
+09751735	13518140	Synset('multiprocessing.n.01')	simultaneous processing by two or more processing units
+09751874	13554984	Synset('serial_processing.n.01')	sequential processing by two or more processing units
+09751991	13547048	Synset('real-time_processing.n.01')	data processing fast enough to keep up with an outside process
+09752142	13574928	Synset('word_processing.n.01')	rapid and efficient processing (storage and printing) of linguistic data for composition and editing
+09752304	13481994	Synset('floating-point_operation.n.01')	an arithmetic operation performed on floating-point numbers
+09752497	13553560	Synset('search.n.03')	an operation that determines whether one or more of a set of items has a specified property
+09752695	13558696	Synset('sort.n.04')	an operation that segregates items into groups according to a specified criterion
+09752898	13564501	Synset('synchronous_operation.n.01')	operations that are initiated predictably by a clock
+09753036	13567344	Synset('threshold_operation.n.01')	an operation performed on operands in order to obtain the value of a threshold function
+09753207	13550940	Synset('retrieval.n.01')	(computer science) the operation of accessing information from the computer's memory
+09753347	13443537	Synset('carriage_return.n.01')	the operation that prepares for the next character to be printed or displayed as the first character on a line
+09753519	13508183	Synset('line_feed.n.01')	the operation that prepares for the next character to be printed or displayed on the next line
+09753669	13521444	Synset('new_line.n.01')	the operation that prepares for the next character to be printed or displayed as the first character on the next line
+09758798	13579679	Synset('baud.n.01')	(computer science) a data transmission rate (bits/second) for modems
+09773610	13601596	Synset('computer_memory_unit.n.01')	a unit for measuring computer memory
+09778024	13607187	Synset('megaflop.n.01')	(computer science) a unit for measuring the speed of a computer system
+09778191	13607616	Synset('mips.n.01')	(computer science) a unit for measuring the execution speed of a computer's CPU (but not the whole system)
+09795462	13625237	Synset('bit.n.06')	a unit of measurement of information (from binary + digit); the amount of information in a system having two equiprobable states
+09795705	13625482	Synset('parity_bit.n.01')	(computer science) a bit that is used in an error detection procedure in which a 0 or 1 is added to each group of bits so that it will have either an odd number of 1's or an even number of 1's; e.g., if the parity is odd then any group of bits that arrives with an even number of 1's must contain an error
+09796057	13625884	Synset('nybble.n.01')	a small byte
+09796150	13626013	Synset('byte.n.01')	a sequence of 8 bits (enough to represent one character of alphanumeric data) processed as a single unit of information
+09796377	13626240	Synset('sector.n.04')	the minimum track length that can be assigned to store information; unless otherwise specified a sector of data consists of 512 bytes
+09796601	13626464	Synset('block.n.06')	(computer science) a sector or group of sectors that function as the smallest data unit permitted
+09796888	13626789	Synset('bad_block.n.01')	(computer science) a block (usually one sector) that cannot reliably hold data
+09797003	13626942	Synset('allocation_unit.n.01')	a group of sectors on a magnetic disk that can be reserved for the use of a particular file
+09797175	13627114	Synset('partition.n.02')	(computer science) the part of a hard disk that is dedicated to a particular operating system or application and accessed as a single unit
+09797369	13627327	Synset('word.n.07')	a word is a string of bits stored in computer memory
+09797558	13627516	Synset('kilobyte.n.02')	a unit of information equal to 1024 bytes
+09797785	13628056	Synset('megabyte.n.02')	a unit of information equal to 1024 kibibytes or 2^20 (1,048,576) bytes
+09797959	13628761	Synset('gigabyte.n.02')	a unit of information equal to 1024 mebibytes or 2^30 (1,073,741,824) bytes
+09798167	13629482	Synset('terabyte.n.02')	a unit of information equal to 1024 gibibytes or 2^40 (1,099,511,627,776) bytes
+09905308	13755053	Synset('capacity.n.06')	(computer science) the amount of information (in bytes) that can be stored on a disk drive
+09905560	13755342	Synset('formatted_capacity.n.01')	(computer science) the usable capacity of a disk drive; the amount of space that is left after the sector headings and boundary definitions and timing information have been added by formatting the disk
+09905826	13755627	Synset('unformatted_capacity.n.01')	(computer science) the total number of bytes on a disk including the space that will be required to format it
+09954508	13820993	Synset('efficiency.n.01')	the ratio of the output to the input of any system
+09956846	13823968	Synset('output-to-input_ratio.n.01')	the output power of a transducer divided by the input power
+09973537	13844057	Synset('time_sharing.n.01')	(computer science) the use of a central computer by many users simultaneously
+10377834	14464675	Synset('bug.n.02')	a fault or defect in a computer program, system, or machine
+10632536	14820052	Synset('computer_paper.n.01')	paper folded to permit continuous printing controlled by a computer
+10889988	15171857	Synset('access_time.n.01')	(computer science) the interval between the time data is requested by the system and the time the data is provided by the drive
+10967973	15269128	Synset('seek_time.n.01')	(computer science) the time it takes for a read/write head to move to a specific data track
+10968157	15269331	Synset('track-to-track_seek_time.n.01')	(computer science) the time it takes for a read/write head to move to an adjacent data track
+10974104	15276642	Synset('bits_per_second.n.01')	(computer science) the rate at which data is transferred (as by a modem)
+10989008	15297069	Synset('rotational_latency.n.01')	(computer science) the time it takes for a specific block of data on a data track to rotate around to the read/write head
+10989223	15297672	Synset('processing_time.n.01')	the time it takes to complete a prescribed procedure
